@@ -109,3 +109,5 @@ Key components and features of home automation include:
 10. **Sustainability:** By optimizing energy usage and reducing waste, home automation can contribute to a more sustainable and eco-friendly lifestyle.
 
 Home automation technology continues to evolve, with new devices and integrations becoming available regularly. While it offers numerous benefits, it's essential to consider security and privacy concerns when implementing smart home solutions, as these systems can potentially be vulnerable to hacking and data breaches if not properly secured.
+
+Python 3.11.5 documentation-https://docs.python.org/3/
